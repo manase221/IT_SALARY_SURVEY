@@ -35,4 +35,4 @@ Professionals with a Master's degree earn a higher median salary than those with
 For more details about the analysis and the results, please see the IT Survey EDA.ipynb notebook.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
